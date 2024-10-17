@@ -22,7 +22,7 @@ public class ProductTestApplication {
         // 간단한 GET 요청에 대한 응답을 반환
         @GetMapping("/hello")
         public String sayHello() {
-            return "Hello, this is your product API!";
+            return "안녕하세요~~~~~~~~~~~~~~~~~!";
         }
     }
 
